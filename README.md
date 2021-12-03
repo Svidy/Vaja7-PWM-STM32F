@@ -24,4 +24,5 @@ v 1. 2. in 3. vrstici (v user code begin 3):
   Ukaz 3 : Če ima spremenljivka duty cycle vrednost ki je večja od 90, nastavi spremenljivko na 10.
 
 Komentar: 
-  
+  Imela sva nekaj težav pri nastavitvi parametrov in s kodo, pri vezavi osciloskopa pa nisva imela večjih težav.
+  Naloga se nama je zdela zanimiva in drugačna od prejšnjih.
